@@ -1,0 +1,19 @@
+body{
+    background-image: url(./img/754598726300328.jpeg);
+    color: black;
+    font-weight: 900;
+    justify-content: center;
+}
+section{
+    text-align: center;
+    background-color: aqua;
+    font-style: italic;
+    width: 500px;
+    letter-spacing: 1px;
+    justify-content: center;
+    margin-left: 700px;
+    margin-top: 300px;
+}
+p{
+    font-size: 40px;
+}
